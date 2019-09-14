@@ -1,15 +1,17 @@
 [
   {
     "name":"jo",
-    "features":["hi",
-    "my","name"
+    "features":[
+    "hi",
+    "my",
+    "name"
     ],
     "version":"0.0.1",
-    "Download':[
-    {
+    "Download":[
+{
     "name":"ios",
     "link":"https://www.facebook.com/yousefmasry0/posts/2379696658984825?notif_id=1568465885763184&notif_t=feedback_reaction_generic"
-    },
-  ],
-  },
+    }
+  ]
+}
 ]
