@@ -4,22 +4,22 @@
     "features":"hi",
     "version":"0.0.1",
     "Download":{
-"ios":{
-    "name":"ios",	   
-    "link":"https://www.facebook.com/yousefmasry0/posts/2379696658984825?notif_id=1568465885763184&notif_t=feedback_reaction_generic"	    "link":"https://www.facebook.com/yousefmasry0/posts/2379696658984825?notif_id=1568465885763184&notif_t=feedback_reaction_generic"
-    },	
-            "apk":{	
-    "name":"ios",	
-    "link":"https://www.facebook.com/yousefmasry0/posts/2379696658984825?notif_id=1568465885763184&notif_t=feedback_reaction_generic"	
-    },	
-            "linux":{	
-    "name":"ios",	
-    "link":"https://www.facebook.com/yousefmasry0/posts/2379696658984825?notif_id=1568465885763184&notif_t=feedback_reaction_generic"	
-    },	
-            "wine":{	
-    "name":"ios",	
-    "link":"https://www.facebook.com/yousefmasry0/posts/2379696658984825?notif_id=1568465885763184&notif_t=feedback_reaction_generic"	
-    }	   
-  }	 
+        "ios":{
+    "name":"ios",
+    "link":"https://www.facebook.com/yousefmasry0/posts/2379696658984825?notif_id=1568465885763184&notif_t=feedback_reaction_generic"
+    },
+            "apk":{
+    "name":"ios",
+    "link":"https://www.facebook.com/yousefmasry0/posts/2379696658984825?notif_id=1568465885763184&notif_t=feedback_reaction_generic"
+    },
+            "linux":{
+    "name":"ios",
+    "link":"https://www.facebook.com/yousefmasry0/posts/2379696658984825?notif_id=1568465885763184&notif_t=feedback_reaction_generic"
+    },
+            "wine":{
+    "name":"ios",
+    "link":"https://www.facebook.com/yousefmasry0/posts/2379696658984825?notif_id=1568465885763184&notif_t=feedback_reaction_generic"
+    }
+  }
 }
 ]
