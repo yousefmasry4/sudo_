@@ -1,11 +1,7 @@
 [
   {
     "name":"jo",
-    "features":[
-    "hi",
-    "my",
-    "name"
-    ],
+    "features":"hi",
     "version":"0.0.1",
     "Download":[
 {
